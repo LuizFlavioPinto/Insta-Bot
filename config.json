@@ -1,4 +1,9 @@
 {
-    "Username/E-mail":"yourEmail@gmail.com",
-    "Password":"yourPassoword"
+    "Username/E-mail":"yourUsernameOrAcount",
+    "Password":"yourPassword",
+    "Hastags":["futebol", "vasco", "brasileirão", "brasileirao", 
+        "flamengo", "palmeiras", "curintia", "papao", "cruzeiro", "inter", 
+        "atlético-MG", "fluminense", "clube do remo"],
+    "Coments":["brabo d +", "boa !!!", "parabéns pelo trabalho, admiro mto seus posts",
+        "incrível !!!", "loucura !!!", "d + mermão"]
 }

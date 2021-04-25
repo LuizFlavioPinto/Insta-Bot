@@ -1,13 +1,10 @@
 const instagram = require('./functions.js')
 
-const username= require('./config.json')['Username/E-mail'],
-    password= require('./config.json').Password,
-    searchTag = (tag) => `https://www.instagram.com/explore/tags/${tag}/`,
-    tagsForSearch = ['futebol', 'vasco', 'brasileirão', 'brasileirao', 
-    'flamengo', 'palmeiras', 'curintia', 'papao', 'cruzeiro', 'inter', 
-    'atlético-MG', 'fluminense', 'clube do remo'],
-    coments = ['brabo d +', 'boa !!!', 'parabéns pelo trabalho, admiro mto seus posts',
-    'incrível !!!', 'loucura !!!', 'd + mermão'];
+const username = require('./config.json')['Username/E-mail'],
+    password = require('./config.json').Password,
+    tagsForSearch = require('./config.json').Hastags,
+    coments = require('./config.json').Coments,
+    searchTag = (tag) => `https://www.instagram.com/explore/tags/${tag}/`;
 
 
 (async () => {

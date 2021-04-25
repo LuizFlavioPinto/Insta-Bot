@@ -9,3 +9,5 @@
 - Install the puppeteer library using npm: "npm install puppeteer"
 
 - Change the username/e-mail and password for yours at config.json
+
+- Change the hastag for the ones that you want
