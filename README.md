@@ -2,7 +2,7 @@
 
 ## Project description 
 
-- This's a project that uses the pupperteer library to create a browser automation. This is used to like and coment in posts at one hastag
+- This's a project that uses the pupperteer library to create a browser automation. This is used to like and coment in posts at a hastag
 
 ## How to use
 
